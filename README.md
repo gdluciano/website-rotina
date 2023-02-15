@@ -9,7 +9,7 @@ O usuário cadastra a atividade e grava o tempo que leva para realizar a tarefa.
 
 Essas tarefas serão salvas para posterior avaliação. Elas podem ser gravadas quantas vezes o usuário achar necessário (possível limite para não estourar memória/performance), o "app" montará uma média.
 
-O usuário marcará manualmente o início e término da atividade, para o "app" identificar tempo ocioso do usuário entre tarefas. O usuário poderá marcar certas tarefas como prioridades reservando mais tempo para estas. Após cadastradas as tarefas e passado o horário o "app" enviará um "relatório" com dicas e possíveis melhorias.
+O usuário marcará manualmente o início e término da atividade, para o "app" identificar tempo ocioso do usuário entre tarefas. O usuário poderá marcar certas tarefas como prioridades reservando mais tempo para estas ou como tarefas indesejadas, sendo reduzido o tempo até sua exclusão. Após cadastradas as tarefas e passado o horário o "app" enviará um "relatório" com dicas e possíveis melhorias.
 
 O "app" primeiramente será focado em rotinas semanais, podendo cadastrar as tarefas de segunda a sexta.
 ```
